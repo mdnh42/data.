@@ -1,0 +1,44 @@
+[
+    {
+        "key": "01",
+        "img": "https://blog.eduonix.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg",
+        "courseName": "Full Stact Development",
+        "description": "A full stack web developer is a person who can develop both client and server software.",
+        "price": 100
+    },
+    {
+        "key": "02",
+        "img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190911190208/How-to-Become-A-Successful-Java-Developer.png",
+        "courseName": "Java Programming",
+        "description": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.",
+        "price": 120
+    },
+    {
+        "key": "03",
+        "img": "https://careerlancer.net/wp-content/uploads/2014/07/Freelance-C-Developer.jpg",
+        "courseName": "C# Programming",
+        "description": "C# is a general-purpose, multi-paradigm programming language.",
+        "price": 80
+    },
+    {
+        "key": "04",
+        "img": "https://i.ytimg.com/vi/W70tydhT8_A/maxresdefault.jpg",
+        "courseName": "PHP Course",
+        "description": "PHP is a popular general-purpose scripting language that is especially suited to web development.",
+        "price": 180
+    },
+    {
+        "key": "05",
+        "img": "https://jobaxes.com/wp-content/uploads/2021/05/Python-Developer-at-P.jpg",
+        "courseName": "Pyton Development",
+        "description": "Python is an interpreted high-level general-purpose programming language.",
+        "price": 280
+    },
+    {
+        "key": "06",
+        "img": "https://cdn-images-1.medium.com/max/1350/1*jkg0mv3_tOo8zrTGGTYr4Q.png",
+        "courseName": "React Development",
+        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
+        "price": 70
+    }
+]
